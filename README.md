@@ -109,6 +109,14 @@ Contributions are welcome and appreciated! To contribute:
    ```bash
    git push origin feature/AmazingFeature
    ```
-5. Open a Pull Request 🚀
+5. Open a Pull Request 🚀  
+   Submit your pull request with a clear title and description. Make sure to explain:
+   - What feature or fix your PR adds
+   - Any relevant issue numbers (e.g., `Fixes #12`)
+   - Steps to test or reproduce the new feature or fix
 
----
+💡 **Tip:** Keep your commits clean and meaningful. Squash your commits if necessary before submitting your PR.
+
+The project maintainers will review your PR and provide feedback. Once everything looks good, it will be merged into the main branch.
+
+Thank you for contributing and making this project better! 🙌
