@@ -65,6 +65,17 @@ Follow these instructions to get a copy of the project up and running on your lo
     * **On a physical device**: Scan the QR code using the Expo Go app on your Android or iOS device.
     * **On an emulator/simulator**: Press `a` for the Android Emulator or `i` for the iOS Simulator in the terminal.
 
+## 📋 Requirements
+
+### Software
+* **Node.js**: LTS version recommended.
+* **npm** or **yarn**: Package manager.
+* **Expo Go**: Client app for running the project on physical devices.
+
+### Core Technologies
+* **React Native**: The primary framework for building the app.
+* **Expo**: The toolchain used for development and building.
+
 ## 🛠️ Built With
 
 * [React Native](https://reactnative.dev/) - The framework for building native apps using React.
